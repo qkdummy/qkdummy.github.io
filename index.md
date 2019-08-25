@@ -1,1 +1,1 @@
-<embed align="center" valign="middle" width="1000" height="400" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high">
+<html><body style="height: 100%; width: 100%; overflow: hidden; margin: 0px;"><embed width="100%" height="100%" name="plugin" id="plugin" src="qkdummy.github.io/utf-8' 'sj.swf" type="application/x-shockwave-flash"></body></html>
