@@ -1,2 +1,1 @@
-<embed src="qkdummy.github.io/utf-8' 'sj.swf">
 <embed width="500" height="200" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high" wmode="opaque" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash">
