@@ -1,1 +1,1 @@
-<embed border="0" width="2000" height="" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high">
+<embed border="0" width="2000" height="2000" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high">
