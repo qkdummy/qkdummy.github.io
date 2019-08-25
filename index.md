@@ -1,3 +1,2 @@
 <embed src="qkdummy.github.io/utf-8' 'sj.swf">
-
-<script charset="Shift_JIS" src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.js"></script>
+<embed width="500" height="200" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high" wmode="opaque" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash">
