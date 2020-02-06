@@ -4,5 +4,5 @@
   
 <a href="http://weibo.com/qkdummy" title="微博" target="_blank">链</a><a href="https://www.douban.com/people/qkdummy/" title="豆瓣" target="_blank">接</a>
   
-  </body>
+  <a href="https://www.boincstats.com/signature/-1/bam/44552/sig.png" title="BOINC" target="_blank"></a>
   </html>
