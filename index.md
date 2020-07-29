@@ -1,3 +1,4 @@
+<link rel="icon" href="https://qkdummy.files.wordpress.com/2020/02/wenge.jpg?w=32" sizes="32x32" />
 <html>
   <body>
     <embed align="" valign="" width="500" height="200" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="Transparent">
