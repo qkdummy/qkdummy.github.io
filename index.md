@@ -1,5 +1,5 @@
 <html>
-  <link rel="icon" href="qkdummy.github.io/WenGe1.ico" type="image/x-icon" />
+  <link rel="icon" href="https://raw.githubusercontent.com/qkdummy/qkdummy.github.io/master/WenGe1.ico" type="image/x-icon" />
   <body>
     <embed align="" valign="" width="500" height="200" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="Transparent">
   
