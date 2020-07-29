@@ -1,4 +1,3 @@
-<link rel="icon" href="qkdummy.github.io/WenGe1.ico?w=16" sizes="16x16" />
 <html>
   <body>
     <embed align="" valign="" width="500" height="200" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="Transparent">
