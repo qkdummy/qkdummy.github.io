@@ -1,4 +1,5 @@
 <html>
+  <link rel="icon" href="qkdummy.github.io/WenGe1.jpg">
   <body>
     <embed align="" valign="" width="500" height="200" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="Transparent">
   
@@ -7,8 +8,6 @@
     <img src="https://www.boincstats.com/signature/-1/bam/44552/sig.png"/>
 
     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1278612585'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s9.cnzz.com/z_stat.php%3Fid%3D1278612585%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
-
-    <link rel="icon" href="qkdummy.github.io/WenGe1.jpg">
 
   </body>
 </html>
