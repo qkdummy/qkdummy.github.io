@@ -2,7 +2,7 @@
   <body>
     <embed align="" valign="" width="500" height="200" src="qkdummy.github.io/utf-8' 'sj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="Transparent">
   
-    <a href="http://weibo.com/qkdummy" title="微博" target="_blank">链</a><a href="https://www.douban.com/people/qkdummy/" title="豆瓣" target="_blank">接</a><br>
+    <a href="http://weibo.com/qkdummy" title="微博" target="_blank">链</a><a href="https://www.douban.com/people/qkdummy/" title="豆瓣" target="_blank">接</a>
     
     <iframe src="//player.bilibili.com/player.html?aid=668720486&bvid=BV1ua4y1e776&cid=207787871&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
   
