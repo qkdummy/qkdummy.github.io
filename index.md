@@ -1,7 +1,7 @@
 <html>
   <body>
     
-    <embed align="" valign="" width="500" height="200" src="qkdummy.github.io/utf-8'%20'sj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="Transparent">
+    <embed align="" valign="" width="500" height="200" src="https://qkdummy.github.io/utf-8'%20'sj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="Transparent">
   
     <a href="http://weibo.com/qkdummy" title="微博" target="_blank">链</a><a href="https://www.douban.com/people/qkdummy/" title="豆瓣" target="_blank">接</a><a href="https://space.bilibili.com/13917353" title="b站" target="_blank">在</a><a href="https://qkdummy.wordpress.com/2020/08/21/emule-trayicon/" title="eMuleTrayIcons" target="_blank">此</a>
     
